@@ -18,3 +18,11 @@
 - **Frontend**: JavaScript, Chrome Extensions (Manifest v3)
 - **Backend (Required)**: Java or any AI-based REST API 
 - **Host Permissions**: Gmail (`https://mail.google.com/*`), Backend (`http://localhost:8080/*`)
+
+## 🧠 How It Works
+
+1. Open Gmail and view an email.
+2. Click the **AI Reply** button added by the extension.
+3. The extension sends the email body to the AI backend.
+4. Receives and inserts the smart reply into the compose box.
+5. You can review/edit the reply before sending.
