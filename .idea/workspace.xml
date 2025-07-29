@@ -67,8 +67,13 @@
   <component name="RunManager">
     <configuration name="EmailWriterSbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <envs>
-        <env name="GEMINI_API_URL" value="https://generativelanguage.googleapis.com" />
+<<<<<<< HEAD
+        <env name="GEMINI_API_URL" value="https://your-ai-api-url.com" />
         <env name="GEMINI_API_KEY" value="API_KEY" />
+=======
+        <env name="GEMINI_API_URL" value="https://your-ai-api-url.com" />
+        <env name="GEMINI_API_KEY" value="API_Key" />
+>>>>>>> 8fbf95628520d0ef5157682a9a6c85086693d35b
       </envs>
       <module name="email-writer-sb" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.email.writer.EmailWriterSbApplication" />
